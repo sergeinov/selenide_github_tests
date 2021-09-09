@@ -12,7 +12,6 @@ public class githubTests {
     @BeforeAll
     static void setup() {
         Configuration.browser = "chrome";
-        Configuration.baseUrl = "https://demoqa.com";
         Configuration.startMaximized = true;
     }
 
