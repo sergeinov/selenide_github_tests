@@ -1,4 +1,4 @@
-package com.drag_and;
+package com.drag_and_drop;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
